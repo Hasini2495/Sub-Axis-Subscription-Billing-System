@@ -187,6 +187,9 @@ Dependencies
 MySQL Connector/J 9.6.0
 
 Java 8+
+
 Author
+
 Silarapu Ramya Hasini B.Tech IT - Enterprise Java Developer
+
 Built for enterprise-grade SaaS systems. This project demonstrates production-ready Java Swing architecture with clean design and scalable structure.
