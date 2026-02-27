@@ -1,0 +1,32 @@
+# Java
+*.class
+/out/
+bin/
+/target/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Build/system
+*.jar
+*.war
+*.ear
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+
+# Maven / Gradle
+/.mvn/
+/.gradle/
+build/
+
+# Logs
+logs/
+*.log
